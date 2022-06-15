@@ -2,7 +2,7 @@
   {
     "full_name": "vmware-tanzu/pinniped",
     "stargazers_count": 330,
-    "open_issues_count": 109,
+    "open_issues_count": 110,
     "forks_count": 42
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "vmware-tanzu/community-edition",
-    "stargazers_count": 1075,
-    "open_issues_count": 427,
-    "forks_count": 236
+    "stargazers_count": 1079,
+    "open_issues_count": 431,
+    "forks_count": 239
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 10545,
+    "stargazers_count": 10546,
     "open_issues_count": 3,
-    "forks_count": 2019
+    "forks_count": 2018
   },
   {
     "full_name": "bdougie/awesome-black-developers",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "wzchen/probability_cheatsheet",
-    "stargazers_count": 2488,
+    "stargazers_count": 2489,
     "open_issues_count": 1,
     "forks_count": 620
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "kelseyhightower/kubernetes-the-hard-way",
-    "stargazers_count": 31472,
+    "stargazers_count": 31478,
     "open_issues_count": 142,
-    "forks_count": 10286
+    "forks_count": 10291
   },
   {
     "full_name": "twilio-labs/function-templates",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "kubernetes-sigs/kui",
-    "stargazers_count": 2201,
+    "stargazers_count": 2202,
     "open_issues_count": 9,
     "forks_count": 165
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71635,
-    "open_issues_count": 262,
-    "forks_count": 3212
+    "stargazers_count": 71654,
+    "open_issues_count": 261,
+    "forks_count": 3213
   },
   {
     "full_name": "cloud-annotations/workshop-template",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 5855,
+    "stargazers_count": 5860,
     "open_issues_count": 90,
     "forks_count": 286
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "rbonghi/jetson_stats",
-    "stargazers_count": 1416,
+    "stargazers_count": 1419,
     "open_issues_count": 66,
     "forks_count": 184
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "horovod/horovod",
-    "stargazers_count": 12489,
+    "stargazers_count": 12494,
     "open_issues_count": 318,
-    "forks_count": 2070
+    "forks_count": 2072
   },
   {
     "full_name": "kelseyhightower/nocode",
-    "stargazers_count": 52900,
+    "stargazers_count": 52921,
     "open_issues_count": 4184,
     "forks_count": 4556
   },
