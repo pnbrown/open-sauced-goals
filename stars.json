@@ -13,9 +13,9 @@
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 115973,
-    "open_issues_count": 2583,
-    "forks_count": 40836
+    "stargazers_count": 116050,
+    "open_issues_count": 2603,
+    "forks_count": 40867
   },
   {
     "full_name": "natalisucks/natalisucks",
@@ -26,7 +26,7 @@
   {
     "full_name": "numaproj/numaflow",
     "stargazers_count": 1888,
-    "open_issues_count": 244,
+    "open_issues_count": 246,
     "forks_count": 135
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "vmware/pinniped",
-    "stargazers_count": 658,
+    "stargazers_count": 659,
     "open_issues_count": 111,
     "forks_count": 68
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 12040,
+    "stargazers_count": 12041,
     "open_issues_count": 0,
     "forks_count": 2190
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "k8spatterns/examples",
-    "stargazers_count": 1030,
+    "stargazers_count": 1031,
     "open_issues_count": 7,
     "forks_count": 278
   },
   {
     "full_name": "kelseyhightower/kubernetes-the-hard-way",
-    "stargazers_count": 44647,
+    "stargazers_count": 44791,
     "open_issues_count": 15,
-    "forks_count": 14961
+    "forks_count": 14974
   },
   {
     "full_name": "twilio-labs/function-templates",
-    "stargazers_count": 377,
+    "stargazers_count": 378,
     "open_issues_count": 74,
     "forks_count": 338
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 92560,
+    "stargazers_count": 92612,
     "open_issues_count": 383,
-    "forks_count": 3717
+    "forks_count": 3721
   },
   {
     "full_name": "cloud-annotations/workshop-template",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 7122,
+    "stargazers_count": 7124,
     "open_issues_count": 102,
-    "forks_count": 321
+    "forks_count": 322
   },
   {
     "full_name": "fedoradesign/coloringbook-containers",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2618,
+    "stargazers_count": 2619,
     "open_issues_count": 30,
     "forks_count": 237
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "rbonghi/jetson_stats",
-    "stargazers_count": 2312,
-    "open_issues_count": 63,
-    "forks_count": 275
+    "stargazers_count": 2315,
+    "open_issues_count": 73,
+    "forks_count": 277
   },
   {
     "full_name": "sloria/doitlive",
