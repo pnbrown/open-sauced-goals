@@ -1,7 +1,7 @@
 [
   {
     "full_name": "TechUnRestricted/WinDiskWriter",
-    "stargazers_count": 3819,
+    "stargazers_count": 3833,
     "open_issues_count": 20,
     "forks_count": 97
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "paiml/python_devops_book",
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 15,
     "forks_count": 351
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 120736,
-    "open_issues_count": 2656,
-    "forks_count": 42531
+    "stargazers_count": 120801,
+    "open_issues_count": 2648,
+    "forks_count": 42549
   },
   {
     "full_name": "natalisucks/natalisucks",
@@ -32,7 +32,7 @@
   {
     "full_name": "numaproj/numaflow",
     "stargazers_count": 2437,
-    "open_issues_count": 256,
+    "open_issues_count": 259,
     "forks_count": 150
   },
   {
@@ -44,7 +44,7 @@
   {
     "full_name": "vmware/pinniped",
     "stargazers_count": 696,
-    "open_issues_count": 100,
+    "open_issues_count": 103,
     "forks_count": 79
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 12180,
+    "stargazers_count": 12177,
     "open_issues_count": 0,
     "forks_count": 2200
   },
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "k8spatterns/examples",
-    "stargazers_count": 1063,
+    "stargazers_count": 1064,
     "open_issues_count": 6,
     "forks_count": 289
   },
   {
     "full_name": "kelseyhightower/kubernetes-the-hard-way",
-    "stargazers_count": 47514,
-    "open_issues_count": 46,
-    "forks_count": 15515
+    "stargazers_count": 47582,
+    "open_issues_count": 47,
+    "forks_count": 15529
   },
   {
     "full_name": "twilio-labs/function-templates",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 80,
     "forks_count": 344
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 95531,
-    "open_issues_count": 405,
-    "forks_count": 3841
+    "stargazers_count": 95558,
+    "open_issues_count": 406,
+    "forks_count": 3844
   },
   {
     "full_name": "cloud-annotations/workshop-template",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "hakluke/how-to-exit-vim",
-    "stargazers_count": 7158,
+    "stargazers_count": 7160,
     "open_issues_count": 101,
     "forks_count": 324
   },
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2612,
+    "stargazers_count": 2611,
     "open_issues_count": 30,
     "forks_count": 238
   },
   {
     "full_name": "openhpc/ohpc",
     "stargazers_count": 971,
-    "open_issues_count": 3,
-    "forks_count": 201
+    "open_issues_count": 2,
+    "forks_count": 202
   },
   {
     "full_name": "rbonghi/jetson_stats",
-    "stargazers_count": 2477,
-    "open_issues_count": 79,
+    "stargazers_count": 2485,
+    "open_issues_count": 81,
     "forks_count": 317
   },
   {
     "full_name": "sloria/doitlive",
-    "stargazers_count": 3559,
+    "stargazers_count": 3562,
     "open_issues_count": 13,
     "forks_count": 101
   }
