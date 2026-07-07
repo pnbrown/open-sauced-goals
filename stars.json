@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "kju4q/ai-weekend-builds",
+    "stargazers_count": 295,
+    "open_issues_count": 0,
+    "forks_count": 57
+  },
+  {
     "full_name": "VictorEijkhout/TheArtofHPC_pdfs",
     "stargazers_count": 836,
     "open_issues_count": 0,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "TechUnRestricted/WinDiskWriter",
-    "stargazers_count": 4434,
-    "open_issues_count": 31,
-    "forks_count": 128
+    "stargazers_count": 4463,
+    "open_issues_count": 32,
+    "forks_count": 129
   },
   {
     "full_name": "bradleyd/devops_for_the_desperate",
     "stargazers_count": 172,
     "open_issues_count": 6,
-    "forks_count": 86
+    "forks_count": 85
   },
   {
     "full_name": "paiml/python_devops_book",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 123376,
-    "open_issues_count": 2687,
-    "forks_count": 43388
+    "stargazers_count": 123458,
+    "open_issues_count": 2680,
+    "forks_count": 43487
   },
   {
     "full_name": "natalisucks/natalisucks",
@@ -38,7 +44,7 @@
   {
     "full_name": "numaproj/numaflow",
     "stargazers_count": 2822,
-    "open_issues_count": 276,
+    "open_issues_count": 283,
     "forks_count": 162
   },
   {
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "vmware-tanzu/community-edition",
-    "stargazers_count": 1321,
+    "stargazers_count": 1320,
     "open_issues_count": 9,
     "forks_count": 298
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 12213,
+    "stargazers_count": 12215,
     "open_issues_count": 0,
     "forks_count": 2187
   },
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "wzchen/probability_cheatsheet",
-    "stargazers_count": 3145,
+    "stargazers_count": 3144,
     "open_issues_count": 3,
-    "forks_count": 700
+    "forks_count": 701
   },
   {
     "full_name": "bmuschko/ckad-prep",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "kelseyhightower/kubernetes-the-hard-way",
-    "stargazers_count": 48924,
+    "stargazers_count": 48956,
     "open_issues_count": 50,
-    "forks_count": 15741
+    "forks_count": 15747
   },
   {
     "full_name": "twilio-labs/function-templates",
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 97473,
-    "open_issues_count": 456,
+    "stargazers_count": 97479,
+    "open_issues_count": 455,
     "forks_count": 3950
   },
   {
@@ -170,13 +176,7 @@
   {
     "full_name": "openhpc/ohpc",
     "stargazers_count": 989,
-    "open_issues_count": 9,
+    "open_issues_count": 14,
     "forks_count": 205
-  },
-  {
-    "full_name": "rbonghi/jetson_stats",
-    "stargazers_count": 2581,
-    "open_issues_count": 75,
-    "forks_count": 327
   }
 ]
