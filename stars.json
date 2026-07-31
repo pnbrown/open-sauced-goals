@@ -1,27 +1,27 @@
 [
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 42463,
+    "stargazers_count": 42471,
     "open_issues_count": 392,
     "forks_count": 2729
   },
   {
     "full_name": "kju4q/ai-weekend-builds",
-    "stargazers_count": 426,
+    "stargazers_count": 435,
     "open_issues_count": 0,
-    "forks_count": 82
+    "forks_count": 84
   },
   {
     "full_name": "VictorEijkhout/TheArtofHPC_pdfs",
-    "stargazers_count": 842,
+    "stargazers_count": 846,
     "open_issues_count": 0,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "TechUnRestricted/WinDiskWriter",
-    "stargazers_count": 4555,
-    "open_issues_count": 31,
-    "forks_count": 136
+    "stargazers_count": 4567,
+    "open_issues_count": 32,
+    "forks_count": 137
   },
   {
     "full_name": "bradleyd/devops_for_the_desperate",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 124016,
-    "open_issues_count": 2698,
-    "forks_count": 43626
+    "stargazers_count": 124072,
+    "open_issues_count": 2732,
+    "forks_count": 43656
   },
   {
     "full_name": "natalisucks/natalisucks",
@@ -50,8 +50,8 @@
   {
     "full_name": "numaproj/numaflow",
     "stargazers_count": 2819,
-    "open_issues_count": 287,
-    "forks_count": 165
+    "open_issues_count": 293,
+    "forks_count": 166
   },
   {
     "full_name": "garg3133/welcome-new-contributors",
@@ -62,7 +62,7 @@
   {
     "full_name": "vmware/pinniped",
     "stargazers_count": 731,
-    "open_issues_count": 99,
+    "open_issues_count": 102,
     "forks_count": 82
   },
   {
@@ -81,11 +81,11 @@
     "full_name": "vmware-tanzu/community-edition",
     "stargazers_count": 1320,
     "open_issues_count": 9,
-    "forks_count": 298
+    "forks_count": 297
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 12217,
+    "stargazers_count": 12219,
     "open_issues_count": 0,
     "forks_count": 2187
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "bmuschko/ckad-prep",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 0,
     "forks_count": 404
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "kelseyhightower/kubernetes-the-hard-way",
-    "stargazers_count": 49270,
+    "stargazers_count": 49311,
     "open_issues_count": 50,
-    "forks_count": 15782
+    "forks_count": 15786
   },
   {
     "full_name": "twilio-labs/function-templates",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 97570,
+    "stargazers_count": 97578,
     "open_issues_count": 453,
-    "forks_count": 3953
+    "forks_count": 3954
   },
   {
     "full_name": "cloud-annotations/workshop-template",
